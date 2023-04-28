@@ -244,7 +244,7 @@ img, svg, picture {
 .button-primary {
   width: 12rem;
   padding-block: 0.75em;
-  color: hsl(355 10% 80%);
+  color: hsl(355 10% 100%);
 }
 
 /* || PAGE SECTIONS */
@@ -322,6 +322,7 @@ img, svg, picture {
   .headline__title {
     max-width: 240px;
     line-height: 1.25;
+    justify-self: start;
   }
 
   .popular {
