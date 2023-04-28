@@ -7,9 +7,9 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 3. Draw on the Desktop layout to try to write semantic html instead of using `<div>` for everything
 
 ## Questions
-1. Should I use `<article>` or `<section>` for some of these groups?[^1] 
+1. Should I use `<article>` or `<section>` for some of these groups? 
 2. What about `<aside>` and `<menu>`?
-3. `<h1>` should be used as the biggest heading in the page. However, in a case, where there is no dominant `<h1>`. Can you have more than 1 `<h1>` on a page? Will this hurt SEO [^2]
+3. `<h1>` should be used as the biggest heading in the page. However, in a case, where there is no dominant `<h1>`. Can you have more than 1 `<h1>` on a page? Will this hurt SEO 
 
 ## Struggles
 ---
@@ -68,6 +68,6 @@ Simple fix 👏
 
 
 ## Footnotes 
--[^1]: [Article vs Section: Smashing Magazine](https://www.smashingmagazine.com/2022/07/article-section-elements-accessibility/)
--[^2]: [H1: Where to Place: Case Study of Amazon](https://www.fastcompany.com/3016894/should-your-tag-be-your-logo)
+- [Article vs Section: Smashing Magazine](https://www.smashingmagazine.com/2022/07/article-section-elements-accessibility/)
+- [H1: Where to Place: Case Study of Amazon](https://www.fastcompany.com/3016894/should-your-tag-be-your-logo)
 -[Wrapping H1 over a Logo](https://stackoverflow.com/questions/32265420/visually-remove-h1-element-whilst-preserving-screen-reader-accessibility-and-a)
